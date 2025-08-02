@@ -42,10 +42,7 @@ By combining SHAP and perturbation analysis, this framework allows users to **un
 
 Example Visualizations:
 
-![SHAP Example](shap_example.png)  
-*SHAP value visualization showing important regions for classification.*
-
-![Perturbation Heatmap](perturbation_example.png)  
+![Perturbation Heatmap](perturbation-based explainability method.png)  
 *Perturbation analysis highlighting the most sensitive areas for prediction changes.*
 
 ---
